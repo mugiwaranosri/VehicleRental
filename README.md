@@ -73,11 +73,9 @@ Clone the Repository:
 
 sh
 
-Copy code
+git clone https://github.com/mugiwaranosri/vehiclerental.git
 
-git clone https://github.com/yourusername/vehicle-rental-management-system.git
-
-cd vehicle-rental-management-system
+cd vehiclerental
 
 Build the Project:
 
